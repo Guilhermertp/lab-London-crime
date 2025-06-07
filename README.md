@@ -1,13 +1,45 @@
-🕵️‍♂️ Project London Crime – Tableau Dashboard Mini Project
-Welcome to Project London Crime, a data visualization mini project focused on analyzing crime trends in London. The goal of this project was to extract insights from crime data and present them in an interactive and visually compelling Tableau dashboard.
+🕵️‍♂️ Project London Crime
+Tableau Dashboard Mini Project
+Welcome to Project London Crime, a data visualization mini project focused on analyzing crime trends in London.
+The goal of this project was to extract insights from crime data and present them in an interactive and visually compelling Tableau dashboard.
 
 📊 Project Overview
-This project involved the following key steps:
+This project involved several key steps:
 
-Data Exploration & Cleaning: Understanding the structure and quality of the London crime dataset.
+🔍 Data Exploration in Jupyter Notebook
 
-Data Preparation: Aggregating, filtering, and transforming the data for analysis.
+🧹 Data Preparation for Visualization (no cleaning was required)
 
-Dashboard Design: Building a Tableau dashboard to highlight key insights such as crime trends, locations, and categories.
+🎨 Dashboard Design in Tableau
 
-Presentation: Sharing the final interactive dashboard for user exploration.
+📢 Publishing the Final Dashboard
+
+📦 Dataset
+Source: Kaggle
+
+Title: London Crime Data
+
+Description: Reported crime in London by borough and LSOA (BigQuery Dataset)
+
+📁 A Jupyter Notebook is included in this repo for data exploration only.
+No data cleaning was necessary before loading into Tableau.
+
+🔗 Live Dashboard
+📍 View the interactive dashboard on Tableau Public:
+👉 Crime London Dashboard
+
+🧰 Tools & Technologies
+Tableau – For building interactive dashboards
+
+Python / Jupyter Notebook – For data exploration
+
+CSV – Dataset format
+
+🔍 Dashboard Highlights
+📍 Crime by Borough – Geographic distribution of crimes
+
+📅 Crime Over Time – Yearly and monthly trends
+
+🧾 Crime Categories – Most reported crime types
+
+🔧 Interactive Filters – Explore by borough or category
